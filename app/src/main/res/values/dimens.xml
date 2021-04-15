@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="image_view_thumb">130dp</dimen>
+    <dimen name="placeholderTextHeight">10dp</dimen>
+    <dimen name="text_22">22sp</dimen>
+</resources>

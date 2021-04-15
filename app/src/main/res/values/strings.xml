@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MovesApp</string>
+    <string name="search_movie_name">Search Movies or TV show\'s</string>
+    <string name="api_key">3a9f7627</string>
+    <string name="no_data_found">NO Data Found</string>
+</resources>
